@@ -18,7 +18,6 @@ JP_Sales – The total sales in Japan (millions)
 Other_Sales – The total sales in other parts of the world (millions)
 User_Score -  The average user score for the game
 Rating – What ESRB has rated the game (E, T, M)
-![image](https://user-images.githubusercontent.com/100548755/192380888-ebb93657-8078-412a-87e9-963e8fc9b9be.png)
 
 
 
