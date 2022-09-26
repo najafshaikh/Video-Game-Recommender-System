@@ -1,6 +1,7 @@
 # XYZ Game Recommender System
 ## Introduction 
 Video games are a very popular hobby enticing all groups of people. Since video games can be expensive, it is important to a person that they invest in the right choice; not wanting to regret later. 
+
 This project aims to create a recommender system that will take a game the user likes and suggest new games to try that are similar.
 
 ## Data
