@@ -5,20 +5,19 @@ This project aims to create a recommender system that will take a game the user 
 
 ## Data
 The data was acquired from Kaggle. The data is a webscrape from the popular videogame newssite VGChartz. After cleaning the dataset, there were 7382 Games and 12 Features which would be used to return 5 suggestions.
-## Data Dictionary
-Name  – The title of the game
-Platform – The platform it is available on to purchase and play 
-Year – The year the game was released 
-Genre – The genre of the game (Action, Adventure, Simulation) 
-Publisher – The publisher of the game 
-Developer – The developer of the game  
-NA_Sales – The sales in North America (millions) 
-EU_Sales – The total sales in Europe (millions) 
-JP_Sales – The total sales in Japan (millions) 
-Other_Sales – The total sales in other parts of the world (millions) 
-User_Score -  The average user score for the game 
-Rating – What ESRB has rated the game (E, T, M) 
-
+### Data Dictionary
+Name- The title of the game
+Platform - The platform the game is played on.
+Year - The year the game was released.
+Genre -  The genre of the game (Action, Adventure, Simulation)
+Publisher - The publisher of the game.
+Developer - The developer of the game.
+NA_Sales -  The total sales in North America in millions
+EU_Sales - The total sales in Europe in millions
+JP_Sales - The total sales in Japan in millions
+Other Sales_ The total sales in other parts of the world in millions
+User_score - The average score users gave the game.
+Rating - What ESRB has rated the game (E, T, M).
 
 
 ## The App
