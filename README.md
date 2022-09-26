@@ -1,8 +1,3 @@
-# Game-Recommender
-"# streamlit-to-heroku-tutorial" 
-"# Game-Recommender" 
-"# Game-Recommender" 
-"# xyzgrs" 
-"# xyzgrs" 
+XYZ Game Recommender System
 # xyzgrs
 # Video-Game-Recommender-System
