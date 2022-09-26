@@ -15,12 +15,19 @@ Year - The year the game was released.
 Genre -  The genre of the game (Action, Adventure, Simulation)
 
 Publisher - The publisher of the game.
+
 Developer - The developer of the game.
+
 NA_Sales -  The total sales in North America in millions
+
 EU_Sales - The total sales in Europe in millions
+
 JP_Sales - The total sales in Japan in millions
+
 Other Sales_ The total sales in other parts of the world in millions
+
 User_score - The average score users gave the game.
+
 Rating - What ESRB has rated the game (E, T, M).
 
 
