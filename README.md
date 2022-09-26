@@ -30,8 +30,16 @@ User_score - The average score users gave the game.
 
 Rating - What ESRB has rated the game (E, T, M).
 
+## The Recommender
+Content-based Filtering
+Recommendations based on a user’s activity
+
+Cosine Similarity
+A metric used to determine the similarity between two things.
+
 
 ## The App
+To allow users to use the recommender, a webapp was created using StreamLit and then later deployed to Heroku.
 Below is a screenshot of the app: A game was selected from the dropdown menu and 5 suggestions were returned.
 ![Screenshot (89)](https://user-images.githubusercontent.com/100548755/192379889-3c7184e0-1b2c-4fa3-92a0-14dbed9a138c.png)
 
