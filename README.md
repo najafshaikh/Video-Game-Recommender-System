@@ -7,9 +7,13 @@ This project aims to create a recommender system that will take a game the user 
 The data was acquired from Kaggle. The data is a webscrape from the popular videogame newssite VGChartz. After cleaning the dataset, there were 7382 Games and 12 Features which would be used to return 5 suggestions.
 ### Data Dictionary
 Name- The title of the game
+
 Platform - The platform the game is played on.
+
 Year - The year the game was released.
+
 Genre -  The genre of the game (Action, Adventure, Simulation)
+
 Publisher - The publisher of the game.
 Developer - The developer of the game.
 NA_Sales -  The total sales in North America in millions
