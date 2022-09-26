@@ -31,10 +31,10 @@ User_score - The average score users gave the game.
 Rating - What ESRB has rated the game (E, T, M).
 
 ## The Recommender
-Content-based Filtering
+Content-based Filtering:
 Recommendations based on a user’s activity
 
-Cosine Similarity
+Cosine Similarity:
 A metric used to determine the similarity between two things.
 
 
